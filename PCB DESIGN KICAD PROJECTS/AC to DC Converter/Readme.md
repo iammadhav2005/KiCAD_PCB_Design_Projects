@@ -3,17 +3,17 @@
 This project implements the design of AC to DC power supply converter using KiCad.  
 It converts 230V AC input into a regulated DC output using a bridge rectifier, filter capacitor, and voltage regulator.
 
-## Features
+<h2>Features</h2>
 - 230V AC to regulated DC output
 - Bridge rectifier based conversion
 - Capacitor filtering for ripple reduction
 - Compact 2-layer PCB layout
 - Manufacturing-ready Gerber files included
 
-## Tools Used
+<h2>Tools Used</h2>
 - KiCad (Schematic & PCB Design)
 
-## Project Includes
+<h2>Project Includes</h2>
 - Schematic design
 - PCB layout
 - Gerber files
